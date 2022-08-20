@@ -1,4 +1,4 @@
-package com.kovko;
+package com.kovko.recursive;
 
 import java.util.HashMap;
 
